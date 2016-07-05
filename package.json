@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/jleeisme/node_web_scrape/issues"
   },
-  "homepage": "https://github.com/jleeisme/node_web_scrape#readme"
+  "homepage": "https://github.com/jleeisme/node_web_scrape#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.72.0"
+  }
 }
