@@ -1,0 +1,19 @@
+{
+  "name": "node_scraper",
+  "version": "1.0.0",
+  "description": "scrape the dirt off the net",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jleeisme/node_web_scrape.git"
+  },
+  "author": "Jason Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jleeisme/node_web_scrape/issues"
+  },
+  "homepage": "https://github.com/jleeisme/node_web_scrape#readme"
+}
